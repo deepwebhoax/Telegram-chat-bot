@@ -6,8 +6,8 @@ import logging
 from datetime import datetime
 import math
 
-chat1_id = -1001450381106
-bot_token = "738852122:AAGOCYEcN3JSIni2KPqPO8AmTU_c1gXBEyw"
+chat1_id = "****************"
+bot_token = "**************************"
 null_day = 315
 date = time.localtime()
 dayMaximum = 4
