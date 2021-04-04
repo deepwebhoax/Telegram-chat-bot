@@ -1,8 +1,7 @@
- <p>Telegram bot on Python telebot library.<p>
- <h3>Telegram bot.</h3>
- <p>It can:
- <p>- Logs all the text messages.</p>
- <p>- Can handle keywords.</p>
- <p>- Can delete messages.</p>
- 
- Work patterns can vary depending on the chat (id) the bot is in.</p>
+ <p>Telegram bot server built using TelegramBotAPI.<p>
+ <h3>The code allows the bot to</h3>
+ <p>- log all received text messages.</p>
+ <p>- handle keywords.</p>
+ <p>- delete messages.</p>
+ <p>- demonstrate different behaviors for specific chats.</p>
+ </p>
